@@ -10,9 +10,9 @@
 
   <h2>Sobre mí</h2>
  
-- 🔭 Actualmente trabajo como FullStack Web Developer
-- 🌱 Estoy aprendiendo cada dia 
-- 💬 Tengo 27 años, soy de Argentina 🇦🇷 
+- 🔭 Actualmente estoy buscando mi primer empleo como FullStack Web Developer
+- 🌱 Me gusta aprender cosas nuevas cada día
+- 💬 Tengo 27 años, soy de Misiones, Argentina 🇦🇷 
 
 
 
