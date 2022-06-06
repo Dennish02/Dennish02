@@ -18,17 +18,17 @@
 
 <div style="display: inline_block"><br>
   <h2>Tecnologías que uso</h2>
-  <div height="30" width="40">
+  <div style="display: inline_block" height="30" width="40">
     <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <p  align="center">JavaScript</p>
+    <p  align="center">JavaScript</p>
   </div>
   
-   <div height="30" width="40" >
+   <div style="display: inline_block" height="30" width="40" >
      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <p> React</p>
   </div>
   
-   <div height="30" width="40" >
+   <div style="display: inline_block" height="30" width="40" >
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <p> HTML</p>
   </div>
