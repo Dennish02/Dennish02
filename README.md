@@ -16,7 +16,7 @@
 
 
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <h2>Tecnologías que uso</h2>
   <div style="display: inline_block" height="30" width="40">
     <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
