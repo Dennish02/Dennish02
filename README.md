@@ -65,7 +65,8 @@
  
   <div>
     <h2>Mis Proyectos</h2>
-![bore1](https://user-images.githubusercontent.com/44222925/172254752-28ba3431-5deb-4fee-9d9d-6a65b15dae5e.png)
+    <img src='https://user-images.githubusercontent.com/44222925/172254752-28ba3431-5deb-4fee-9d9d-6a65b15dae5e.png'/>
+
 
 
     
