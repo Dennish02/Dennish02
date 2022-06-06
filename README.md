@@ -62,3 +62,13 @@
   <a href="https://www.linkedin.com/in/dennishesler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ 
+  <div>
+    <h2>Mis Proyectos</h2>
+    ![bore3](https://user-images.githubusercontent.com/44222925/172254636-168e2a74-53ef-44fe-ae94-5dc7230198fd.png)
+![bore4](https://user-images.githubusercontent.com/44222925/172254638-7b75efee-f125-47d4-bdf5-8b6e9d690064.png)
+![bore1](https://user-images.githubusercontent.com/44222925/172254640-f93564dc-e8a9-4183-9a25-94cc75f6ddb1.png)
+![bore2](https://user-images.githubusercontent.com/44222925/172254641-0df54823-5924-46e7-89fa-8a3b908a66f3.png)
+
+    
+  </div>
