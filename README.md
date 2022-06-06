@@ -18,8 +18,8 @@
 
 <div style="display: inline_block"><br>
   <h2>Tecnologías que uso</h2>
-  <div align="center">
-    <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-   plain.svg">
+  <div display='inline-block' height="30" width="40" align="center">
+    <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <p  align="center">JavaScript</p>
   </div>
   
