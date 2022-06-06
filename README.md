@@ -65,7 +65,10 @@
  
   <div>
     <h2>Mis Proyectos</h2>
-    <img src='https://user-images.githubusercontent.com/44222925/172254752-28ba3431-5deb-4fee-9d9d-6a65b15dae5e.png'/>
+    <p>Landing Boré Mobiliarios</p>
+    <img alt='Boré Mobiliarios' src='https://user-images.githubusercontent.com/44222925/172254752-28ba3431-5deb-4fee-9d9d-6a65b15dae5e.png'/>
+    <img alt='Boré Mobiliarios' src='https://user-images.githubusercontent.com/44222925/172254916-ed1e621d-d7cf-4d6b-b007-6b7e4c1e8c35.png'/>
+
 
 
 
