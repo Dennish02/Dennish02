@@ -6,14 +6,18 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennish02&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-
+  <div>
   <h2>Sobre mí</h2>
+  
  
-- 🔭 Actualmente estoy buscando mi primer empleo como FullStack Web Developer
-- 🌱 Me gusta aprender cosas nuevas cada día
-- 💬 Tengo 27 años, soy de Misiones, Argentina 🇦🇷 
-- ✉ Si te interesa mi perfil pordes enviarme un mail: dennishesler02@gmail.com
+- Actualmente estoy buscando mi primer empleo como FullStack Web Developer
+- Me gusta aprender cosas nuevas cada día <br/>
+- Tengo 27 años, soy de Misiones, Argentina 🇦🇷 
+- Si te interesa mi perfil pordes enviarme un mail: `dennishesler02@gmail.com`
+  </div>
+
+
+ 
 
 
 <div style="display:  inline_block"><br>
