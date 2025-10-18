@@ -12,7 +12,7 @@
  
 - Actualmente estoy buscando mi primer empleo como FullStack Web Developer
 - Me gusta aprender cosas nuevas cada día <br/>
-- Tengo 27 años, soy de Misiones, Argentina 🇦🇷 
+- Tengo 31 años, soy de Misiones, Argentina 🇦🇷 
 - Si te interesa mi perfil pordes enviarme un mail: `dennishesler02@gmail.com`
   </div>
 
